@@ -67,6 +67,14 @@
     for($i=5;$i<25;$i+=5)
         echo "$i ";
     ?>  
+
+    <?php
+    for ($i=0; $i<4; $i++) {
+    for ($j=0; $j<5; $j++) {
+    echo "$i $j<br>";
+  }
+}
+?>
 </body>
 
 </html>
