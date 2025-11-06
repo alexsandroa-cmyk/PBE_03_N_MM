@@ -26,5 +26,7 @@
     <a href="aula09_01.php">ir para a aula 09.1 - 02/10/2025</a>
     <br>
     <a href="aula_09_02.php">ir para a aula 09.2 - 02/10/2025</a>
+    <br>
+    <a href="aula12_01.php">ir para a aula 12 - 06/11/2025</a>
 </body>
 </html>
